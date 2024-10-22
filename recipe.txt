@@ -3,3 +3,8 @@ Recipes:
 Pasta
 Pizza
 Butter Chicken
+
+
+Samosa
+Pav Bhaji
+Tacos
